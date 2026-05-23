@@ -52,6 +52,7 @@ Google Cloud Platform
   ↓
 CI/CD Pipelines
   ↓
+
 Cloud Networking
   ↓
 Kubernetes
@@ -59,3 +60,45 @@ Kubernetes
 Monitoring & Observability
   ↓
 MLOps / AI Infrastructure
+```
+
+## Projects I Am Building
+ ### Focused Access Traffic Filter for E-Learning
+
+A system designed to help learners stay focused during dedicated study sessions by controlling or filtering distracting traffic entering a device through an e-learning environment.
+
+---
+
+## Core ideas:
+-Scheduled study sessions
+-DNS or VPN-based traffic filtering
+-Policy engine for allowed and blocked services
+-Backend API for managing focus sessions
+-Device-level or network-level enforcement
+-Ethical, opt-in focus enhancement
+-Future analytics for learner behavior and concentration patterns
+
+---
+
+## Target engineering areas:
+-Networking 
+-Backend APIs
+-Security
+-DevOps
+-Cloud Deployment
+-Monitoring
+
+### Career Direction
+
+**My target path is:**
+```text
+Backend/API Developer
+        ↓
+DevOps Engineer
+        ↓
+Cloud / Platform Engineer
+        ↓
+MLOps / AI Infrastructure Engineer
+        ↓
+System Architect / AI Architect
+```
